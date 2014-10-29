@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08E6077A-EC71-439E-9101-ACC84E3683C8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>xibViewFileExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F5E492B86406C9BE3F953AF46F963DD01A057770</key>
+		<string>https://github.com/cmilne/iOS_xibFileExample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>xibViewFileExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F5E492B86406C9BE3F953AF46F963DD01A057770</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cmilne/iOS_xibFileExample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F5E492B86406C9BE3F953AF46F963DD01A057770</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5E492B86406C9BE3F953AF46F963DD01A057770</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_xibFileExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
